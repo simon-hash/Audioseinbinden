@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Auidoseinbinden</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
 </resources>
